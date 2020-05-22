@@ -7,7 +7,7 @@
 3. On the LACCD Single Signon page, remove @laccd.edu from your email address, and enter your student/staff email password in the Password field and click on "Sign in".  
     ![sso1](/img/3-sso1.png)
     ![sso2](/img/4-sso2.png)
-4. You may get an automated call from Micrsoft asking you to verify your identity. Answer the call and press "#" to verify. You will be taken to Azure Portal.
+4. You may get an automated call from Micrsoft asking you to verify your identity. Answer the call and press "#" to verify. You will be taken to Azure Portal.  
     ![Microsoft Verification Call](/img/5-msverificationcall.png)
 5. Click on the search bar on top of the portal page and type in "Education" and hit Enter.  
     ![Azure portal Education search](/img/6-educationsearch.png)
