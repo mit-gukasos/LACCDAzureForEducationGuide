@@ -2,17 +2,17 @@
 
 ## Enrolling
 
-1. Go to [Azure Dev Tools for Teaching](https://azureforeducation.microsoft.com/devtools) portal and click on "Sign In" button.
+1. Go to [Azure Dev Tools for Teaching](https://azureforeducation.microsoft.com/devtools) portal and click on "Sign In" button.  
     ![Azure Dev Tools for Teaching portal](/img/Enroll/1-portal.png)
 
-2. Enter your LACCD staff or student email address and click Next. You will be taken to LACCD SSO (Single Sign On) portal where you can enter your password.
+2. Enter your LACCD staff or student email address and click Next. You will be taken to LACCD SSO (Single Sign On) portal where you can enter your password.  
     ![Microsoft Sign in page](/img/Enroll/2-mssignin.png)
     ![LACCD SSO Sign in page](/img/Enroll/3-LACCDsignin.png)
 
-3. Agree to Terms and Conditions (tick the first checkbox). You can uncheck "I would like information, tips, and offers about Azure, including Azure Newsletter, Pricing updates, and other Microsoft products and services." to avoid receiving advertisement emails.
+3. Agree to Terms and Conditions (tick the first checkbox). You can uncheck "I would like information, tips, and offers about Azure, including Azure Newsletter, Pricing updates, and other Microsoft products and services." to avoid receiving advertisement emails.  
     ![Azure Terms of Service](/img/Enroll/4-termsofservice.png)
 
-4. On the left hand panel click on "Software". You should see full list (139 items) available for download.
+4. On the left hand panel click on "Software". You should see full list (139 items) available for download.  
     ![Software screen](/img/Enroll/5-softwareInventory.png)
 
 ## Accessing
